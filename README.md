@@ -1,1 +1,1 @@
-# PCA-Based-Image-Compression-Project
+# EigenVision: Image Compression with PCA
